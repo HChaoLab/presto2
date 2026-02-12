@@ -1,4 +1,4 @@
-#' presto
+#' presto2
 #'
 #' Fast differential expression
 #'
