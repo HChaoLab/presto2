@@ -1,4 +1,4 @@
-Package: presto
+Package: presto2
 Title: Fast Functions for Differential Expression using Wilcox and AUC
 Version: 1.0.0
 Authors@R: c(
