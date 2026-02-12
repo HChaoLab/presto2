@@ -2,7 +2,7 @@
 #'
 #' Fast differential expression
 #'
-#' @name presto
+#' @name presto2
 #' @docType package
 #' @useDynLib presto
 #' @import Rcpp
